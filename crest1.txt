@@ -1,12 +1,7 @@
-This is test file created for git training.
+this is test File created for GIT training.
 
 Added few more data to view changes in git repo
 
 
-
-
-
-
-
-
+Removed few lines above.
 Skipped few lines above.
